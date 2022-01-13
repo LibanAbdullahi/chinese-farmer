@@ -1,0 +1,74 @@
+ul {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+p {
+	font-size: 15px;
+	font-family: Arial, sans-serif;
+	color: darkgray;
+}
+h3 {
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+table {
+    color:rosybrown;
+    font-weight: bold;
+}
+  body {
+      background-color: rgb(0, 139, 23);
+      width: 100;
+      margin: 0%;
+      padding: 0%;
+      box-sizing: border-box;
+
+      
+  }
+  h6 {
+      color: darkred;
+      font-size: medium;
+  }
+  h5 {
+      color: darkred;
+
+  }
+  .holdingcontainer {
+      width: 100%;
+      display: flex;
+      background: yellow;
+      padding: 50px;
+      box-sizing: border-box;
+  }
+  .internalcontainerL {
+    flex: 1;
+    background: tomato;
+    padding: 30px;
+    font-size: 12px;
+    font-family: sans-serif;
+  }
+  .internalcontainerR{
+      flex: 1;
+      background:tomato;
+      padding: 30px;
+      font-size: 12px;
+      font-family: sans-serif;
+      color: blue;
+    
+  }
+  .imagecontainer {
+    flex: 1;
+    background:tomato;
+    padding: 30px;
+    font-size: 12px;
+    font-family: sans-serif;
+  }
+  .container1 {
+    flex: 1;
+    background: rgba(255, 0, 179, 0.712);
+    padding: 30px;
+    font-size: 12px;
+    font-family: sans-serif;
